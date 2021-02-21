@@ -1,0 +1,10 @@
+elephant beats lion
+elephant plays tiger
+lion beats tiger
+deer plays tiger
+horse beats fox
+fox plays kangaroo
+kangaroo plays tiger
+deer plays fox
+horse plays horse
+lion plays deer
