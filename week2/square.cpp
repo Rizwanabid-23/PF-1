@@ -10,5 +10,5 @@ cin>>width;
 if (length=width){
 	cout<<"It is also square"<<endl;}
 if(length<width){
-	cout<<"It is not a square"<<endl;}
+	cout<<"It is also not a square"<<endl;}
 }
