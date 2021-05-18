@@ -22,7 +22,7 @@ int main(){
 	
 	total=30000-totalPlay;
 	if(total>0){
-		cout<<"Tom sleeps well"<<endl;
+		cout<<"Tom slept well"<<endl;
 	  	total02 = total;
 		
 	}
