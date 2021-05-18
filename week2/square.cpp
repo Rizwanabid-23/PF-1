@@ -8,7 +8,7 @@ cout<<"Enter the width"<<endl;
 float width;
 cin>>width;
 if (length=width){
-	cout<<"It is a square"<<endl;}
+	cout<<"It is also square"<<endl;}
 if(length<width){
-	cout<<"It is not a square"<<endl;}
+	cout<<"It is also not a square"<<endl;}
 }
